@@ -1,0 +1,1 @@
+# go-makefile-template
